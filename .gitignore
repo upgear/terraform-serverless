@@ -1,0 +1,13 @@
+# Secrets
+
+credentials.json
+
+# Terraform
+
+.terraform/
+*.tfplan
+*.tfstate*
+
+# Build
+
+build/functions/*.zip
